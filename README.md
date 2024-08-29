@@ -80,7 +80,7 @@ The analysis focuses on the following key metrics:
 8. **General Cohort Analysis Insights and Stakeholdor Recommendations:** Developed actionable recommendations from general insights for stakeholders, segmented into immediate, mid-term, and long-term priorities. These recommendations were prioritized based on their potential impact and urgency, with a focus on enhancing customer engagement, optimizing financial performance, and driving long-term growth.
 9. **Recommendations for Further Analysis** Proposed additional analyses to build on the current findings, including churn prediction, advanced customer journey mapping, sentiment analysis, and strategic pricing evaluation. These recommendations aimed to provide deeper insights and support continuous improvement in customer management strategies.
 
-<a id="#business-question-specific-insights-and-recommendations"></a>
+<a id="business-question-specific-insights-and-recommendations"></a>
 
 ## Business Question Specifc Insights and Recommendations
 1. **Effectiveness of Recent Customer Acquisition and Engagement Strategies:**
@@ -133,7 +133,7 @@ The analysis demonstrated the effectiveness of recent customer acquisition strat
 1. **Proactive Feedback Collection:** Establish systems to regularly collect and analyze customer feedback, using it to inform ongoing improvements and address emerging issues quickly.
 2. **Dedicated Customer Success Teams:** Build a customer success team focused on monitoring key metrics and adapting strategies in real-time to maintain high customer satisfaction and loyalty.
 
-<a id="#future-work"></a>
+<a id="future-work"></a>
 
 ## Recommendations for Further Analysis
 To further refine insights and enhance actionable outcomes, consider pursuing the following steps:
