@@ -38,7 +38,7 @@ This project showcases the ability to translate data into strategic actions that
 ## Technologies Used
 - **Anaconda Prompt:** Environment management and package installation.
 - **Jupyter Notebooks:** Interactive environment for step-by-step documentation, data cleaning, and analysis.
-- **Python:** Core programming language for data analysis, with the following libraries:
+- **Python (Version 3.11.4):** Core programming language for data analysis, with the following libraries:
 	- **Pandas:** Data cleaning and manipulation.
     - **Numpy:** Numerical operations and data manipulation.
 	- **Matplotlib & Seaborn:** Data visualization and plotting.
