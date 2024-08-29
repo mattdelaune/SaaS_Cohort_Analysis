@@ -13,7 +13,7 @@ This project conducts a comprehensive cohort analysis to drive insights into cus
 **Impact:**
 This analysis provides a clear roadmap for enhancing customer retention and maximizing lifetime value, directly supporting strategic decision-making and growth initiatives.
 
-**Demonstrated Skils:**
+**Demonstrated Skills:**
 - **Advanced Data Analysis:** Expertise in uncovering actionable insights from complex datasets.
 - **Strategic Business Thinking:** Ability to align data-driven insights with business objectives.
 - **Effective Communication:** Clear presentation of data through impactful visuals and concise recommendations.
@@ -26,8 +26,8 @@ This project showcases the ability to translate data into strategic actions that
 - [Business Question](#business-question)
 - [Methodology](#methodology)
 - [Process](#process)
-- [Business Question Specifc Insights and Recommendations](#insights-and-recommendations)
-- [General Cohort Analysis Insights and Conclusions:](#general-stakeholder-recommendations)
+- [Business Question Specific Insights and Recommendations](#business-question-specific-insights-and-recommendations)
+- [General Cohort Analysis Insights and Recommendations:](#general-stakeholder-recommendations)
 - [Recommendations for Further Analysis](#future-work)
 - [Screenshots/Visual Examples](#screenshots)
 - [Conclusion](#conclusion)
@@ -42,13 +42,13 @@ This project showcases the ability to translate data into strategic actions that
 	- **Pandas:** Data cleaning and manipulation.
     - **Numpy:** Numerical operations and data manipulation.
 	- **Matplotlib & Seaborn:** Data visualization and plotting.
-- **Kaggle:** - Source of the dataset.
+- **Kaggle:** Source of the dataset.
 - **Git:** Version control for tracking changes and managing project history, with deployment to GitHub.
 
 <a id="data-source"></a>
 
 ## Data Source
-[This](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales) dataset includes customer transaction data from a fictitous SaaS company selling software B2B. The dataset includes columns such as Order ID, Order Date, Customer ID, Product, Sales, and Profit.
+[This](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales) dataset includes customer transaction data from a fictitious SaaS company selling software B2B. The dataset includes columns such as Order ID, Order Date, Customer ID, Product, Sales, and Profit.
 
 <a id="business-question"></a>
 
@@ -88,7 +88,7 @@ The analysis focuses on the following key metrics:
 - **Recommendation:** To maintain and enhance this positive trend, it is recommended to continue focusing on early-stage engagement strategies. Specifically, consider refining onboarding processes, improving the first-touch experience, and offering personalized promotions early in the customer journey. Additionally, leveraging data-driven insights to identify and replicate successful elements of these strategies across all customer segments can ensure consistent results.
 2. **Impact of Cohort-Specific Factors on Financial Performance:**
 - **Observation:** Variability in growth among different cohorts, especially in mid-2020, suggests that cohort-specific factors such as the timing of customer acquisition campaigns, market conditions, or promotional activities significantly impact the financial performance of customer segments. Some cohorts, particularly from late 2020 and early 2021, exhibited sharp increases in CLV during mid-to-late periods, likely due to effective periodic promotions or re-engagement strategies.
-- **Recommendation:** To optimize the financial performance across all cohorts, it's crucial to conduct detailed analysis of the external and internal factors affecting each cohort. This could involve A/B testing different marketing strategies, timing promotions based on seasonal trends, or tailoring re-engagement strategies to specific customer segments. Additionally, continuously monitor market conditions and adjust acquisition strategies to mitigate potential negative impacts on customer value.
+- **Recommendation:** To optimize the financial performance across all cohorts, it's crucial to conduct a detailed analysis of the external and internal factors affecting each cohort. This could involve A/B testing different marketing strategies, timing promotions based on seasonal trends, or tailoring re-engagement strategies to specific customer segments. Additionally, continuously monitor market conditions and adjust acquisition strategies to mitigate potential negative impacts on customer value.
 3. **Financial Risk in Specialized Tools and Later Cohorts:**
 - **Observation:** The analysis reveals sharp declines and even negative CLV values in some later cohorts, particularly concerning specialized tools. This suggests that certain products or customer segments may be experiencing financial losses or increased costs, potentially due to higher acquisition costs or ineffective engagement strategies in these areas.
 - **Recommendation:** To mitigate financial risks, it is recommended to conduct a thorough review of the cost structure and profitability of specialized tools. Implementing tighter cost controls, refining the pricing strategy for these tools, and closely monitoring their performance can prevent further declines. Additionally, identifying underperforming cohorts early and applying targeted interventions can help recover lost value.
@@ -153,6 +153,12 @@ To further refine insights and enhance actionable outcomes, consider pursuing th
 <a id="screenshots"></a>
 
 ## Screenshots/Visual Examples
+
+![CRR](images/CRR_FirstPurchaseCohort_AddonsPlugins.png)
+
+![CE](images/CostEfficiency_AddonsPlugins.png)
+
+![CM](images/Correlation_Matrix.png)
 
 <a id="conclusion"></a>
 
