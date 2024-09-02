@@ -1,7 +1,7 @@
 # SaaS Customer Segmentation and Cohort Analysis
 
 ## Executive Summary
-This project conducts a comprehensive cohort analysis to drive insights into customer segmentation, retention, and revenue growth for a SaaS company. By segmenting customers based on first purchase dates and usage patterns, key trends and strategic opportunities were identified. These insights provide a clear roadmap for enhancing customer retention, maximizing lifetime value, and guiding strategic decisions.
+This project analyzes over 5,000 SaaS sales transactions to perform a comprehensive cohort analysis, offering valuable insights into customer segmentation, retention, and revenue growth. Key trends and strategic opportunities have been identified by examining customers based on their first purchase dates and usage patterns. These insights outline a clear roadmap for improving customer retention, maximizing lifetime value, and informing strategic decision-making.
 
 **Key Insights:**
 - **Targeted Customer Segmentation:** Dynamic grouping based on purchase behavior and product usage, leading to precise insights and tailored strategies.
