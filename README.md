@@ -33,6 +33,7 @@ This project showcases the ability to translate data into strategic actions that
   	- [Low Priority](#low-priority)
 - [Recommendations for Further Analysis](#future-work)
 - [Screenshots/Visual Examples](#screenshots)
+- [Estimated Impact of Proposed Actions with Advanced SaaS Metrics and Cited Industry Benchmarks](#estimated-impact)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
 
@@ -178,7 +179,7 @@ To further refine insights and enhance actionable outcomes, consider pursuing th
 
 ![CM](images/Correlation_Matrix.png)
 
-<a id="conclusion"></a>
+<a id="estimated-impact"></a>
 
 ## Estimated Impact of Proposed Actions with Advanced SaaS Metrics and Cited Industry Benchmarks**
 
@@ -187,6 +188,8 @@ To further refine insights and enhance actionable outcomes, consider pursuing th
 - **Customer Lifetime Value (CLV) Growth Rate:** Estimated **20%** increase via enhanced cross-selling, upselling, and engagement strategies. *(Supported by SaaS Capital, 2021; OpenView Partners, 2020)*
 
 - **Expansion MRR:** Estimated **15%** increase through targeted upsell and cross-sell opportunities. *(Supported by Pacific Crest Securities, 2020; McKinsey & Company, 2021)*
+
+<a id="conclusion"></a>
 
 ## Conclusion
 This project highlights my ability to perform in-depth cohort analysis and deliver actionable insights that directly influence business strategy and growth. By analyzing customer behavior through segmentation and retention metrics, I identified key opportunities to optimize customer lifetime value and drive significant improvements in business performance, including projected increases of 10% in Gross Dollar Retention, 20% in CLV Growth, and 15% in Expansion MRR.
